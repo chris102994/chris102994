@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**chris102994/chris102994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a align="center" href="">
+    <p align="center">
+      <img src="https://gpvc.arturio.dev/chris102994" alt="my github stats"/>
+    </p>
+</a>
+<!-- status codes -->
+<a align="center" href="">
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=chris102994&show_icons=true&theme=tokyonight" alt="Github Stats" width="420"/>
+      &nbsp;
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris102994&layout=compact&theme=tokyonight" alt="Github Languages" height="165">
+    </p>
+</a>

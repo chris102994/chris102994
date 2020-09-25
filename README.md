@@ -8,8 +8,8 @@
 <!-- status codes -->
 <a align="center" href="https://github.com/chris102994">
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=chris102994&show_icons=true&theme=tokyonight" alt="Github Stats" width="420"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=chris102994&show_icons=true&theme=radical" alt="Github Stats" width="420"/>
       &nbsp;
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris102994&layout=compact&theme=tokyonight" alt="Github Languages" height="165">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris102994&layout=compact&theme=radical&hide=html,css" alt="Github Languages" height="165">
     </p>
 </a>

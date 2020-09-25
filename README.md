@@ -1,6 +1,3 @@
-## Hello!
-My name is Chris and I'm a Software/DevOps Engineer. I am from the US and currently live in NC.
-
 <!-- Profile info -->
 <a align="center">
     <p align="center">
@@ -9,6 +6,9 @@ My name is Chris and I'm a Software/DevOps Engineer. I am from the US and curren
       <a href="https://chris102994.github.io/containers/"><img src="https://img.shields.io/badge/Status-Docker%20CI-brightgreen" alt="Github Languages"></a>
     </p>
 </a>
+
+## Hello!
+My name is Chris and I'm a Software/DevOps Engineer. I am from the US and currently live in NC.
 
 ## 🔧 Technologies & Tools
 

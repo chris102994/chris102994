@@ -16,6 +16,7 @@ My name is Chris and I'm a Software/DevOps Engineer. I am from the US and curren
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=70a5fd)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=70a5fd)
 ![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=70a5fd)
+![](https://img.shields.io/badge/Code-Groovy-informational?style=for-the-badge&logo=groovy&logoColor=white&color=70a5fd)
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=70a5fd)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=70a5fd)
 ![](https://img.shields.io/badge/Build-Ant-informational?style=for-the-badge&logo=apache-ant&logoColor=white&color=70a5fd)

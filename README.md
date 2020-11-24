@@ -10,6 +10,8 @@
 ## Hello!
 My name is Chris and I'm a Software/DevOps Engineer. I am from the US and currently live in NC.
 
+[![](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=70a5fd)](https://www.linkedin.com/in/christopher102994/)
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=70a5fd)

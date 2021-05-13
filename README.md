@@ -31,6 +31,7 @@ My name is Chris and I'm a Software/DevOps Engineer. I am from the US and curren
 
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=for-the-badge&logo=jenkins&logoColor=white&color=70a5fd)
 ![](https://img.shields.io/badge/CI/CD-Travis_CI-informational?style=for-the-badge&logo=travis-ci&logoColor=white&color=70a5fd)
+![](https://img.shields.io/badge/Automation-Ansible-informational?style=for-the-badge&logo=ansible&logoColor=white&color=70a5fd)
 
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=70a5fd)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=for-the-badge&logo=pycharm&logoColor=white&color=70a5fd)

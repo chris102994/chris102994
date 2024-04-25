@@ -1,4 +1,6 @@
 <!-- Profile info -->
+<!--
+TODO: Profile needs some love
 <a align="center">
     <p align="center">
       <a href="https://github.com/chris102994"><img src="https://gpvc.arturio.dev/chris102994" alt="my github stats"/></a>
@@ -6,6 +8,7 @@
       <a href="https://chris102994.github.io/containers/"><img src="https://img.shields.io/badge/Status-Docker%20CI-brightgreen" alt="Github Languages"></a>
     </p>
 </a>
+-->
 
 ## Hello!
 My name is Chris and I'm a Software/DevOps Engineer. I am from the US and currently live in NC.
@@ -23,6 +26,7 @@ My name is Chris and I'm a Software/DevOps Engineer. I am from the US and curren
 ![](https://img.shields.io/badge/Code-Groovy-informational?style=for-the-badge&logo=groovy&logoColor=white&color=70a5fd)
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=70a5fd)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=70a5fd)
+![](https://img.shields.io/badge/Code-GoLang-informational?style=for-the-badge&logo=go&logoColor=white&color=70a5fd)
 
 ![](https://img.shields.io/badge/Build-Ant-informational?style=for-the-badge&logo=apache-ant&logoColor=white&color=70a5fd)
 ![](https://img.shields.io/badge/Build-CMake-informational?style=for-the-badge&logo=cmake&logoColor=white&color=70a5fd)
@@ -33,6 +37,10 @@ My name is Chris and I'm a Software/DevOps Engineer. I am from the US and curren
 ![](https://img.shields.io/badge/CI/CD-Travis_CI-informational?style=for-the-badge&logo=travis-ci&logoColor=white&color=70a5fd)
 ![](https://img.shields.io/badge/CI/CD-Argo-informational?style=for-the-badge&logo=argo&logoColor=white&color=70a5fd)
 ![](https://img.shields.io/badge/Automation-Ansible-informational?style=for-the-badge&logo=ansible&logoColor=white&color=70a5fd)
+
+![](https://img.shields.io/badge/IAC-Terraform-informational?style=for-the-badge&logo=terraform&logoColor=white&color=70a5fd)
+![](https://img.shields.io/badge/IAC-Packer-informational?style=for-the-badge&logo=packer&logoColor=white&color=70a5fd)
+
 
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=70a5fd)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=for-the-badge&logo=pycharm&logoColor=white&color=70a5fd)
